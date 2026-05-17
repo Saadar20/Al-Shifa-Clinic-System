@@ -1,0 +1,1 @@
+Al-Shifa Clinic Booking System 🦷 A premium Full-Stack platform for dental clinics. Features a sleek patient booking portal and an advanced dark-mode doctor dashboard. Powered by Vanilla JS and real-time Supabase cloud database. Crafted with precision by Saad Arif in a hyper-focused 7-hour session.
